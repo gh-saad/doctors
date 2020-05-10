@@ -1,0 +1,44 @@
+.tg-navigation{top:62px;}
+@media (max-width: 480px){
+    .tg-logo{
+     width: 100px; 
+     margin: 5px auto 5px;  
+    }
+}
+.nav-tabs
+{
+    background-color: #01aae9;
+}
+.nav-tabs>li>a 
+{
+    color:#fff;
+    margin-right: 22px;
+}
+@media (max-width: 380px){   
+.nav-tabs>li>a 
+{   margin-right: 9px; }
+}
+@media (max-width: 330px){   
+    .nav-tabs>li>a 
+    {   margin-right: -1px; }
+    }
+@media (max-width: 480px){
+    .tg-logo{
+     width: 100px; 
+     margin: 5px auto 5px;  
+    }
+}
+.m-t-5{
+    margin-top:.5em ;
+}
+.px-5
+{
+    padding-top:.5em ;
+    padding-bottom:.5em ;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
